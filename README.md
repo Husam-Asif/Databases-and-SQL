@@ -2,6 +2,7 @@
 # 🗃️ Data Technician Workbook – Week 3
 
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" />
+
 ## 📚 Overview
 
 This workbook provides foundational and applied knowledge in:
