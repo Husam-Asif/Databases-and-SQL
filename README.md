@@ -35,12 +35,6 @@ This workbook provides foundational and applied knowledge in:
 
 ### 🔹 Day 3: SQL JOINs
 Explained and demonstrated 6 JOIN types:
-- `INNER JOIN`
-- `LEFT JOIN`
-- `RIGHT JOIN`
-- `FULL JOIN`
-- `CROSS JOIN`
-- `SELF JOIN`
 
 Includes examples of when to use each JOIN type in real-world data scenarios.
 
@@ -68,12 +62,6 @@ Ran and documented SQL queries using `world_db` to answer real-world questions, 
 - 🧠 Frequency of city names
 - 🏙️ Cities starting with 'New' or 'Be'
 - 🔢 Cities with populations between given thresholds
-
-Queries included:
-```sql
-SELECT COUNT(*) AS TotalCitiesInUSA FROM City WHERE CountryCode = 'USA';
-SELECT Name, LifeExpectancy FROM Country ORDER BY LifeExpectancy DESC LIMIT 1;
-SELECT Name AS City FROM City WHERE Name LIKE 'New%';
 
 💻 Screenshots and SQL outputs embedded in the PDF
 
