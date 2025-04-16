@@ -74,8 +74,6 @@ Queries included:
 SELECT COUNT(*) AS TotalCitiesInUSA FROM City WHERE CountryCode = 'USA';
 SELECT Name, LifeExpectancy FROM Country ORDER BY LifeExpectancy DESC LIMIT 1;
 SELECT Name AS City FROM City WHERE Name LIKE 'New%';
-📎 Files Included
-📄 Workbook PDF: Data_Technician_Workbook_Week_3_Husam_Asif.pdf
 
 💻 Screenshots and SQL outputs embedded in the PDF
 
@@ -86,7 +84,5 @@ Database Design: Normalization, keys, entity relationships
 
 Critical Thinking: Translating business needs into structured data systems
 
-📬 Submission Info
-Workbook completed and submitted as part of the Just IT Data Technician course.
 
 Feel free to explore the queries and get in touch if you’d like to discuss database design or optimization strategies!
